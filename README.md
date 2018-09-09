@@ -26,13 +26,4 @@ Model Building Stage
 
  
 
-“What we know now – is that Pricing includes not just Dollars – but looks at the 3 C s, the various entities : Product, Brand, Stock, Volume commitment etc.
-We saw the logistic Win-Loss curve , the linear contribution Function and the differential that allowed us to reach the optimal point!
 
-Here is the data – lets begin: 
-
-Problem statement: This is a diagnostic pricing problem – and we want to optimize the margin for our CoP Client. Here is the data we have – from Jan 2017 – Aug 2018. (Hint: The yellow marked columns will most likely be mandatorily used in any kind of analysis you d do. While some of the white & blue ones will help to enhance the idea better!)
-
-For the win-loss – or as we called it in our CoP session – ‘How many customers we would lose if we reduce the discounts – the Low/Medium/High risk customers; we would share the competitor data by Thursday. 
-
-The data dictionary also has hints section”
